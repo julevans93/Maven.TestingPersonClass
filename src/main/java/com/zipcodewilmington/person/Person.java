@@ -6,6 +6,11 @@ package com.zipcodewilmington.person;
 public class Person {
     private String name;
     private int age;
+    private int weight;
+    private boolean siblings;
+    private int height;
+    private String nationality;
+    private int shoeSize;
 
     public Person() {
         this.name = "";
